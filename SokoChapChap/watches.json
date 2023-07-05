@@ -1,0 +1,76 @@
+{
+  "watches": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "watchType": "Sport",
+      "watchModel": "Rolex Daytona",
+      "color": "Black",
+      "quantity": 2
+    },
+    {
+      "firstName": "Steve ",
+      "watchType": "Dress",
+      "watchModel": "Rolex Datejust",
+      "color": "red",
+      "quantity": "3",
+      "id": 2
+    },
+    {
+      "firstName": "Austine",
+      "watchType": "Sport",
+      "watchModel": "TAG Heuer Carrera Calibre 16",
+      "color": "red",
+      "quantity": "5",
+      "id": 3
+    },
+    {
+      "firstName": "jane",
+      "watchType": "Sport",
+      "watchModel": "Breitling Superocean Heritage II",
+      "color": "black",
+      "quantity": "4",
+      "id": 4
+    },
+    {
+      "firstName": "jimmy",
+      "watchType": "Casual",
+      "watchModel": "Tissot Everytime",
+      "color": "grey",
+      "quantity": "3",
+      "id": 5
+    },
+    {
+      "firstName": "jimmy",
+      "watchType": "Dress",
+      "watchModel": "Patek Philippe Calatrava",
+      "color": "black",
+      "quantity": "3",
+      "id": 6
+    },
+    {
+      "firstName": "funna",
+      "watchType": "Sport",
+      "watchModel": "TAG Heuer Carrera Calibre 16",
+      "color": "blue",
+      "quantity": "3",
+      "id": 7
+    },
+    {
+      "firstName": "matutu",
+      "watchType": "Casual",
+      "watchModel": "Timex Weekender",
+      "color": "violet",
+      "quantity": "2",
+      "id": 8
+    },
+    {
+      "firstName": "hamusa",
+      "watchType": "Dress",
+      "watchModel": "Jaeger-LeCoultre Master Ultra Thin",
+      "color": "grey",
+      "quantity": "4",
+      "id": 9
+    }
+  ]
+}

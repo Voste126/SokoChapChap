@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="/SokoChapChap/form.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design and Order</title>
+</head>
+<body>
+    <video autoplay loop muted playsinline class="back-video">
+        <source src="/mywatch/watch-v1.0.0/public/assets/video/beach.mp4" type="video/mp4">
+      </video>
+      
+      
+    <form id="watchForm">
+        <label for="firstName">First Name:</label>
+        <input type="text" id="firstName" required><br>
+      
+        <label for="watchType">Watch Type:</label>
+        <select id="watchType" required>
+            <option value="" disabled selected>Select a watch type</option>
+            <option value="Sport">Sport</option>
+            <option value="Dress">Dress</option>
+            <option value="Casual">Casual</option>
+        </select><br>
+
+        <label for="watchModel">Watch Model:</label>
+        <select id="watchModel" required>
+            <option value="" disabled selected>Select a watch model</option>
+        </select><br>
+
+      
+        <label for="color">Color:</label>
+        <input type="text" id="color" required><br>
+      
+        <label for="quantity">Number of Watches:</label>
+        <input type="number" id="quantity" required><br>
+      
+        <button type="submit">Submit</button>
+        
+
+      </form>
+      <button id="retrieveDataButton" type="button">Retrieve Previous Data</button>
+      <a href="store.html" class="shop-link">Visit E-shop</a>
+
+
+      <div id="displayArea">
+        <p id="displayFirstName"></p>
+        <p id="displayWatchType"></p>
+        <p id="displayWatchModel"></p>
+        <p id="displayColor"></p>
+        <p id="displayQuantity"></p>
+      </div>
+      
+      <script src="/SokoChapChap/formcustom.js"></script> 
+</body>
+</html>
