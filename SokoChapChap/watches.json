@@ -71,6 +71,38 @@
       "color": "grey",
       "quantity": "4",
       "id": 9
+    },
+    {
+      "firstName": "Kamau",
+      "watchType": "Dress",
+      "watchModel": "Jaeger-LeCoultre Master Ultra Thin",
+      "color": "red",
+      "quantity": "6",
+      "id": 10
+    },
+    {
+      "firstName": "kamau",
+      "watchType": "Sport",
+      "watchModel": "TAG Heuer Carrera Calibre 16",
+      "color": "violet",
+      "quantity": "3",
+      "id": 11
+    },
+    {
+      "firstName": "juma ",
+      "watchType": "Sport",
+      "watchModel": "Omega Seamaster Planet Ocean",
+      "color": "red",
+      "quantity": "6",
+      "id": 12
+    },
+    {
+      "firstName": "mama",
+      "watchType": "Casual",
+      "watchModel": "Seiko 5 Sports",
+      "color": "violet",
+      "quantity": "1",
+      "id": 13
     }
   ]
 }
